@@ -48,5 +48,7 @@ The Poisson MLE estimator equals the sample mean because the derivative of the l
 This demonstrates that Maximum Likelihood Estimation for the Poisson parameter is simply the average of the observed data.
 
 Author: QUNOO A K TAWEEL
+
 Course: Machine Learning
+
 Year: 2025–2026
