@@ -32,8 +32,11 @@ Both analytical derivation and numerical optimization in Python produce the same
 ## Repository Structure
 
 code/ → Python implementation
+
 data/ → dataset used in analysis
+
 report/ → theoretical derivation and discussion
+
 results/ → interpretation of results
 
 ## Key Insight
