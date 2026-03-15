@@ -29,6 +29,8 @@ Therefore, the MLE estimate for a Poisson distribution equals the **sample mean*
 
 Both analytical derivation and numerical optimization in Python produce the same result.
 
+![Traffic Model](images/traffic_poisson_model.png)
+
 ## Repository Structure
 
 code/ → Python implementation
